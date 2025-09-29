@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+
+<h1 align="center">My Portfolio</h1>
+<h2 align="center">B.Tech 1st Year Student</h2>
+
+<center>
+    <img src="click" alt="" width="200" height="200"><br><br>
+    <h3>Hello, I'm shiva awasthi</h3>
+    <p>I am 18 years old. I am studying B.Tech in [Your Branch].<br>
+    I like learning new things, coding, and working with my friends on projects.</p>
+</center>
+
+<h3>About Me</h3>
+<p>
+    📖 Qualification: 12th Pass, now B.Tech 1st Year<br>
+    🎓 College: kr manglam university<br>
+    📍 Location: delhi<br>
+    📧 Email: shivaawasthi531@email.com
+</p>
+<P>Hobbies<Br>
+    cricket <br>
+    basketball<br>
+    yennis<br>
+    reading<br>
+</P>
+
+<h3>Skills</h3>
+<ul>
+    <li>Basic Programming</li>
+    <li>HTML & Computers</li>
+    <li>Problem Solving</li>
+    <li>Good Communication</li>
+</ul>
+<hr>
+<p align="center">© 2025 My Portfolio</p>
+
+</body>
+</html>
